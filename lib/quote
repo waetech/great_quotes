@@ -1,0 +1,10 @@
+class Quote {
+
+  string text;
+  string author;
+
+  Quote( {this.text, this.author} ) {
+
+  }
+}
+
